@@ -1,3 +1,3 @@
-# agenda
+# Agenda
 
-Projeto feito em Jquery 
+Projeto feito em Html, Css e javascript - com intuito de treinar jquery e bootstrap.
